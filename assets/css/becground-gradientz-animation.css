@@ -1,0 +1,12 @@
+.becground-gradient-animation {
+  background: linear-gradient(-45deg, #00b082, #6610f2, #23a6d5, #6610f2, #00b082);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: 100vh;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
